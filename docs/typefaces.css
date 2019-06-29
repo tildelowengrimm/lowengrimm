@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'),
+    url(merriweather.woff) format('woff'),
+    url(https://themes.googleusercontent.com/static/fonts/merriweather/v5/RFda8w1V0eDZheqfcyQ4EHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Ovo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ovo'),
+    url(ovo.woff) format('woff'),
+    url(https://themes.googleusercontent.com/static/fonts/ovo/v5/WqVRExPBh0NGpNgcgzBACQ.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'),
+    url(bitter.woff) format('woff'),
+    url(https://themes.googleusercontent.com/static/fonts/bitter/v4/SHIcXhdd5RknatSgOzyEkA.woff) format('woff');
+}
